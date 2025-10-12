@@ -4,7 +4,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;7+ans+d'exp%C3%A9rience;Tech+Lead+%40+Soci%C3%A9t%C3%A9+G%C3%A9n%C3%A9rale;Passionn%C3%A9+par+l'innovation;Mentoring+%26+Leadership)](https://git.io/typing-svg)
   
-  <p>🚀 <strong>Senior Software Engineer</strong> avec 7 ans d'expérience dans des environnements techniques exigeants</p>
+  <p>🚀 <strong>Senior Software Engineer</strong> avec +7 ans d'expérience dans des environnements techniques exigeants</p>
   <p>🏦 Actuellement <strong>Tech Lead</strong> chez <strong>Société Générale</strong> sur des projets stratégiques</p>
   <p>💡 Passionné par la transformation digitale et l'architecture moderne</p>
 
