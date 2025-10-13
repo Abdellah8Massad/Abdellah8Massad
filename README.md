@@ -67,7 +67,11 @@ const abdellah = {
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdellah8Massad&theme=tokyonight&hide_border=true)
 
 </div>
-
+<!-- Profile Stats & Trophies -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdellah8Massad&label=Profile%20Views&color=0891b2&style=flat" alt="profile-views"/>
+  <img src="https://img.shields.io/github/followers/Abdellah8Massad?label=Followers&style=social" alt="followers"/>
+</p>
 ## 🏢 Expérience Professionnelle
 
 ### 🏦 Société Générale (2020 - Aujourd'hui)
