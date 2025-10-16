@@ -16,7 +16,7 @@
 const abdellah = {
   role: "Senior Software Engineer & Tech Lead",
   company: "Société Générale",
-  experience: "7+ années",
+  experience: "+7 années",
   location: "Île-de-France, France",
   passions: ["Architecture moderne", "Leadership technique", "Innovation", "Mentoring"],
   currentFocus: ["Spring AI", "RAG", "Event-driven architecture", "Observabilité"],
