@@ -19,8 +19,7 @@ const abdellah = {
   experience: "+8 années",
   location: "Île-de-France, France",
   passions: ["Architecture moderne", "Leadership technique", "Innovation", "Mentoring"],
-  currentFocus: ["Spring AI", "RAG", "Event-driven architecture", "Observabilité"],
-  availableFor: "Missions freelance"
+  currentFocus: ["Spring AI", "RAG", "Event-driven architecture", "Observabilité"]
 };
 ```
 
